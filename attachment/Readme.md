@@ -36,4 +36,4 @@ Additionally, you can use `process_path.py` to read and interpret the informatio
 ### Experiments
 
 The experimental section `Experiments` presents the search for actual periods of various primitives.
-
+In particular, `dec-type1-d-FK.py` provides an example of searching for a period for different branchse, where `num_branch` can be modefied and the round is `R = num_branch**2+1`
